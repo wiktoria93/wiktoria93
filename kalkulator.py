@@ -1,6 +1,11 @@
-def dodawanie (a, b):
+def dodawanie ():
+	a = int(input("Podaj a"))
+	b = int(input("Podaj b"))
+	print(a+b)
 
-	return a+b
-
+def get_info()
+	return "To jest kalk Wiki"
+	
+print (get_info())
 dodawanie()
 input()
