@@ -3,7 +3,7 @@ def dodawanie ():
 	b = int(input("Podaj b"))
 	print(a+b)
 
-def get_info()
+def get_info():
 	return "To jest kalk Wiki"
 	
 print (get_info())
